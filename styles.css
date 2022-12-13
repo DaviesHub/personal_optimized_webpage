@@ -6,6 +6,14 @@
     height: 100%;
 }
 
+.carousel-img {
+    height: 40rem;
+}
+
+.carousel-text {
+    font-family: Verdana;
+}
+
 body::before {
     display: block;
     content: "";
