@@ -14,6 +14,10 @@
     font-family: Verdana;
 }
 
+.carousel-text-b {
+    font-size:24px
+}
+
 body::before {
     display: block;
     content: "";
@@ -22,8 +26,16 @@ body::before {
 
 
 
-@media (min-width: 768px) {
-    .news-input {
-        width: 50%;
+@media (max-width: 576px) {
+    .carousel-text-a {
+        font-size: 18px;
+    }
+
+    .carousel-text-b {
+        font-size: 14px;
+    }
+
+    .carousel-img {
+        height: 11rem;
     }
 }
