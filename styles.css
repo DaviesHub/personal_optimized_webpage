@@ -10,7 +10,8 @@
     height: 40rem;
 }
 
-.carousel-text {
+.carousel-text,
+.footer-text {
     font-family: Verdana;
 }
 
@@ -76,4 +77,8 @@ input[type="range"]:focus::-webkit-slider-thumb {
 
 ul {
     list-style-type: none;
+}
+
+.footer-link {
+    text-decoration: none;
 }
