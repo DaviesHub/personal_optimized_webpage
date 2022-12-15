@@ -96,3 +96,34 @@ ul {
 .footer-link {
     text-decoration: none;
 }
+
+svg {
+    width: 28px;
+    height: 28px;
+}
+
+@media (max-width: 390px) {
+    .footer-text-icon {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 390px) {
+    svg {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+@media (max-width: 284px) {
+    .footer-text-icon {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 284px) {
+    svg {
+        width: 15px;
+        height: 15px;
+    }
+}
