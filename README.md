@@ -1,7 +1,21 @@
-# personal_optimized_webpage
-My Personal webpage made responsive
+# My Website
 
-*=====Acknowledgements=====*
-Task manager pic shot by Fauxels on Pexels.
-Clothing store pic shot by Ron Lach on Pexels.
-Ebook store pic shot by Rafael Cosquiere on Pexels.
+## Description
+This is my personal website. Its purpose is to act as a landing page of my personal brand. The webpage was designed to be responsive, hence it can be viewed on all screen sizes. 
+
+## Features
+Viewers will be able to see my
+1. Professional bio
+2. Education
+3. Experience
+4. Portfolio
+5. Skills
+6. Contacts
+
+## Usage
+The webpage can be viewed here: [view page](https://davieshub.github.io/personal_optimized_webpage/)
+
+## Acknowledgements
+* Task manager pic shot by Fauxels on Pexels.
+* Clothing store pic shot by Ron Lach on Pexels.
+* Ebook store pic shot by Rafael Cosquiere on Pexels.
